@@ -1,36 +1,57 @@
-# Terms of Service
-Our terms and conditions apply to each and every user of ElainaBot.
-By using ElainaBot, you agree to comply with the following terms of service. If you do not agree with these terms, please refrain from using the bot.
+# ElainaBot - Your Ultimate Anime Adventure
 
-## 1. User Conduct
+Welcome to ElainaBot, an exciting Discord bot that brings the world of anime characters and thrilling gameplay right to your server! With ElainaBot, you and your community can enjoy a variety of engaging features inspired by your favorite anime series.
 
-You are responsible for your actions and interactions within the ElainaBot. You must not use the bot to engage in any unlawful, offensive, or harmful activities. This includes but is not limited to:
-- Harassment, bullying, or discriminatory behavior.
-- Sending inappropriate or explicit content.
-- Exploiting or abusing any features of the bot.
+## Features
 
-## 2. Content Usage
+### Character Spawning
 
-ElainaBot provides features that involve characters, images, and data from various sources, including anime and manga. You must respect the intellectual property rights of these sources. Do not use the bot to distribute or display content that violates copyright or other legal rights.
+An anime character spawns in your server every 5 to 40 minutes. Your task? Be the quickest to claim them by guessing their name! Sharpen your anime knowledge and prove your skills in this fast-paced challenge.
 
-## 3. Privacy
+### Monetary System
 
-ElainaBot may collect and store certain data related to user interactions, such as user IDs, server IDs, and command usage. This data is used for bot functionality and improvements, and it will not be shared with third parties.
+Earn and manage Elaina Bucks, our in-game currency. Participate in activities, win challenges, and accumulate wealth to dominate the leaderboard. Use your Elaina Bucks strategically to unlock exciting content.
 
-## 4. Modifications and Distribution
+### Item System
 
-You must not modify, reverse-engineer, or attempt to alter the behavior of ElainaBot. You are also prohibited from distributing or sharing unauthorized versions of the bot.
+Discover a variety of items that can enhance your gameplay. Whether it's boosting your chances in character claiming or trading with other players, the item system adds an extra layer of strategy to the game.
 
-## 5. Limitation of Liability
+### Market System (Upcoming)
 
-ElainaBot is provided "as is" and is not responsible for any damages or issues that may arise from its usage. The bot's creators and maintainers are not liable for any direct, indirect, or incidental damages resulting from the use of the bot.
+Coming soon! Get ready to trade, buy, and sell characters and items in the market. Build your inventory, make smart deals, and become a savvy trader in the world of ElainaBot.
 
-## 6. Changes to Terms
+### Character Trading
 
-These terms of service may be updated or modified at any time without prior notice. It is your responsibility to review and comply with the latest terms.
+Exchange characters with other players to complete your collection or get your hands on a character you've been eyeing. Trading adds a social element to the game and encourages interactions within your server.
 
-## 7. Contact
+### Gambling System
 
-If you have any questions, concerns, or feedback about ElainaBot or these terms of service, you can contact us through [ElainaDiscordBot@gmail.com](mailto:ElainaDiscordBot@gmail.com).
+Feeling lucky? Try your hand at the gambling system and take risks to earn more Elaina Bucks. Test your luck and show off your fortune to fellow players!
 
-By using ElainaBot, you acknowledge and agree to abide by these terms of service. Failure to comply with these terms may result in limitations or revocation of access to the bot.
+## Getting Started
+
+1. Invite ElainaBot to your server using the provided invitation link.
+2. Use the command prefix to interact with ElainaBot and access its features.
+3. Engage in character claiming, trading, gambling, and exploring the ElainaBot universe.
+
+## Support
+
+For questions, assistance, or feedback, please contact us at [ElainaBotSupport@gmail.com](mailto:ElainaBotSupport@gmail.com). We're here to ensure you have the best experience with ElainaBot.
+
+## Upcoming Features
+
+Stay tuned for even more exciting features, including the Market System and other surprises that will elevate your adventure with ElainaBot!
+
+## Disclaimer
+
+ElainaBot is a fan-made bot for entertainment purposes only. All characters and trademarks belong to their respective owners.
+
+## Contributors
+
+We're grateful to our community of contributors who have helped shape and improve ElainaBot. Your feedback and suggestions are invaluable!
+
+---
+
+Join us in the world of ElainaBot and embark on an unforgettable anime adventure. Claim characters, trade with friends, and build your anime empire!
+
+[Invite ElainaBot to Your Server](https://discord.com/api/oauth2/authorize?client_id=1098560967698292796&permissions=140123696192&scope=applications.commands%20bot)
