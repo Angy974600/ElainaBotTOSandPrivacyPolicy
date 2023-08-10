@@ -1,6 +1,6 @@
-# ElainaBot - Your Ultimate Anime Adventure
+# ElainaBot - Your Ultimate Waifu Bot
 
-Welcome to ElainaBot, an exciting Discord bot that brings the world of anime characters and thrilling gameplay right to your server! With ElainaBot, you and your community can enjoy a variety of engaging features inspired by your favorite anime series.
+Welcome to ElainaBot, an exciting Discord bot that brings the world of anime characters and thrilling gameplay right to your server! With ElainaBot, you and your community can enjoy a variety of engaging features.
 
 ## Features
 
@@ -36,7 +36,7 @@ Feeling lucky? Try your hand at the gambling system and take risks to earn more 
 
 ## Support
 
-For questions, assistance, or feedback, please contact us at [ElainaBotSupport@gmail.com](mailto:ElainaBotSupport@gmail.com). We're here to ensure you have the best experience with ElainaBot.
+For questions, assistance, or feedback, please contact us at [ElainaDiscordBot@gmail.com](mailto:ElainaDiscordBot@gmail.com). We're here to ensure you have the best experience with ElainaBot.
 
 ## Upcoming Features
 
