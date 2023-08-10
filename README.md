@@ -1,5 +1,5 @@
 # Terms of Service
-
+Our terms and conditions apply to each and every user of ElainaBot.
 By using ElainaBot, you agree to comply with the following terms of service. If you do not agree with these terms, please refrain from using the bot.
 
 ## 1. User Conduct
