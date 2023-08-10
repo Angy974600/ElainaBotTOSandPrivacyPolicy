@@ -6,7 +6,7 @@ This Privacy Policy outlines how ElainaBot collects, utilizes, and safeguards yo
 
 ElainaBot may collect and store specific data, including but not limited to:
 - User IDs and usernames to uniquely identify users.
-- Server IDs for server-specific features.
+- Server IDs and Channel IDs for server and channel specific features.
 - Command usage and interaction data for bot enhancement.
 
 ## How We Use Your Information
